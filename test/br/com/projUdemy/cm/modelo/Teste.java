@@ -1,4 +1,4 @@
-package br.com.projUdemy.junit.testClass;
+package br.com.projUdemy.cm.modelo;
 
 import org.junit.Test;
 
